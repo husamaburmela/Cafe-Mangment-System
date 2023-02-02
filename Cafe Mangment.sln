@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe Mangment", "Cafe Mangment\Cafe Mangment.csproj", "{215E3FD1-97ED-4AA2-A47F-EB614C6B51C8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cafe-setup", "Cafe-setup\Cafe-setup.vdproj", "{E7B3FCE5-7E2B-4C32-B06F-3AF4BFC694FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215E3FD1-97ED-4AA2-A47F-EB614C6B51C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E3FD1-97ED-4AA2-A47F-EB614C6B51C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E3FD1-97ED-4AA2-A47F-EB614C6B51C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E3FD1-97ED-4AA2-A47F-EB614C6B51C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B3FCE5-7E2B-4C32-B06F-3AF4BFC694FB}.Debug|Any CPU.ActiveCfg = Debug
+		{E7B3FCE5-7E2B-4C32-B06F-3AF4BFC694FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15EC9CED-C977-4BF9-9552-A41CD550C374}
+	EndGlobalSection
+EndGlobal
